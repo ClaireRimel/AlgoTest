@@ -9,6 +9,5 @@
         <page name='Simple Array Sum'/>
         <page name='Compare The Triplets'/>
         <page name='Big O Notation'/>
-        <page name='Asymptotic limit'/>
     </pages>
 </playground>
