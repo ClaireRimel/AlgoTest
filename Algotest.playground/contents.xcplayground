@@ -12,5 +12,6 @@
         <page name='Data Types'/>
         <page name='Asymptotic Limit'/>
         <page name='Big O Notation'/>
+        <page name='Operators'/>
     </pages>
 </playground>
