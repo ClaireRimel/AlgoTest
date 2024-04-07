@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="UTF-8" standalone="yes"?>
-<playground version='6.0' target-platform='ios' display-mode='raw' buildActiveScheme='true' executeOnSourceChanges='true' importAppTypes='true'>
+<playground version='6.0' target-platform='ios' display-mode='rendered' buildActiveScheme='true' executeOnSourceChanges='true' importAppTypes='true'>
     <pages>
         <page name='Summary'/>
         <page name='Warmup'/>
@@ -12,5 +12,6 @@
         <page name='Data Types'/>
         <page name='Asymptotic Limit'/>
         <page name='Big O Notation'/>
+        <page name='Operators'/>
     </pages>
 </playground>
